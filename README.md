@@ -1,6 +1,8 @@
 ## Gabriel Buckland
 
-Computer science BSc, HSLU Lucerne. Below is the work I would point at.
+Computer science BSc, HSLU Lucerne.
+
+## Open source contributions
 
 ### Task manager for JoomGallery
 
