@@ -19,8 +19,7 @@ The number of parallel workers defaults to 1, deliberately, to stay careful
 with server resources. A task that finishes cleanly deletes itself; a task
 that fails stays, so the errors are still there to read.
 
-33 files, +3480 / −546, including a schema change. Opened in January, reviewed
-by the project maintainer over the months that followed, and merged into the
-v4.4.0 release branch in August. It shipped in the v4.4.0-rc1 release
-candidate; the stable release is still pending. The review is on the pull
-request.
+33 files, +3480 / −546, including a schema change. Reviewed by the project
+maintainer and merged into the v4.4.0 release branch. It shipped in the
+v4.4.0-rc1 release candidate; the stable release is still pending. The review
+is on the pull request.
